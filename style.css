@@ -1,0 +1,58 @@
+
+*{
+    margin:0px;
+    padding:0px;
+}
+nav{
+    background-color: black;
+    position: sticky;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    position: absolute;
+    top: 30px;
+}
+li{
+    display: inline-block;
+    position: relative;
+    left: 63em;
+    padding-left: 2em;
+    
+}
+a{
+    color: white;
+}
+
+.img_bg{background-image: url("images/avenger.jpg");
+    background-size: cover;
+     
+    height:40vw;
+     
+ 
+}
+#info{
+    padding-top: 400px;
+    padding-left: 200px;
+}
+ .log{
+    width: 65px;
+    height: 65px;
+ }
+ .h{
+    font-size:25px;
+ }
+  
+ 
+ footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(156, 41, 41);
+    color: white;
+    text-align: center;
+    }
+     
+ 
